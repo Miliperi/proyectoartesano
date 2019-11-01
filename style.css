@@ -1,0 +1,226 @@
+body {
+  background-color: #E8EDEC;
+  margin: 0px;
+  width: 100%;
+  overflow-x: hidden; }
+
+h1 {
+  color: #F08080;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  height: 30px;
+  margin: 0px;
+  padding: 15px; }
+
+h2 {
+  color: #DC9F9F; }
+
+ol li {
+  color: #126331;
+  list-style: disc;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 18px; }
+
+ul li {
+  color: #38413F;
+  list-style: circle;
+  list-style: disc;
+  font-family: 'Quicksand', sans-serif; }
+
+dl {
+  list-style: disc;
+  font-family: 'Quicksand', sans-serif; }
+
+p {
+  color: #0033ff;
+  letter-spacing: 1px;
+  word-spacing: 12px;
+  font-size: 12px;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center; }
+
+a {
+  list-style: disc;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
+  text-decoration: none;
+  color: #fff !important; }
+
+a:hover {
+  color: #A6728A !important; }
+
+fieldset {
+  background: linear-gradient(0.1deg, pink, #E8EDEC); }
+
+button {
+  width: 40%;
+  height: 70px;
+  text-align: center;
+  border-style: double;
+  color: #FFFFFF !important;
+  margin: 10px 450px 10px 450px;
+  background-color: pink;
+  cursor: pointer; }
+
+#contenedor_menu {
+  position: fixed;
+  width: 100%;
+  height: 115px;
+  background-color: #E8EDEC;
+  margin-top: 0px;
+  z-index: 99; }
+
+#menu {
+  width: 100%;
+  height: 15px;
+  padding: 5px 10px 40px 10px;
+  background-color: pink;
+  text-align: center;
+  background: linear-gradient(5deg, pink, #E8EDEC); }
+
+#menu ul li {
+  display: inline-block;
+  padding-left: 25px;
+  padding-right: 25px;
+  color: white !important; }
+
+#img2 {
+  width: 100%;
+  height: 450px;
+  background-image: url(imagen2.jpg);
+  background-size: cover;
+  background-position: center center; }
+
+#inicio {
+  width: 80%;
+  margin-left: 10%;
+  height: auto;
+  overflow: hidden; }
+
+#nosotros {
+  width: 80%;
+  margin-left: 10%;
+  height: auto;
+  overflow: hidden; }
+
+#nosotros_imagen {
+  width: 65%;
+  height: auto;
+  float: left; }
+
+#imgcompania {
+  width: 100%;
+  height: auto; }
+
+.nosotros {
+  color: #D632ED;
+  font-family: 'Quicksand', sans-serif;
+  text-align: left; }
+
+#nosotros_texto {
+  width: 30%;
+  height: auto;
+  margin: 10px 10px 30px 10px;
+  padding: 5px 5px 10px 10px;
+  float: right; }
+
+#video_contenedor {
+  width: 95%;
+  height: 400px;
+  text-align: center; }
+
+#video_archivo {
+  padding: 35px;
+  width: 100%;
+  height: 100%; }
+
+#boton button:hover {
+  border-radius: 50px;
+  color: #A6728A !important;
+  transition: all 1s; }
+
+#listas {
+  width: 80%;
+  margin-left: 10%;
+  height: auto;
+  overflow: hidden; }
+
+.ensalada {
+  color: #32AB51; }
+
+#ensalada_imagen {
+  width: 65%;
+  height: auto; }
+
+#ensalada_texto {
+  width: 30%;
+  height: auto;
+  margin: 10px 10px 30px 10px;
+  padding: 5px 5px 10px 10px;
+  float: right; }
+
+.tarta {
+  color: #CB5F18; }
+
+#tarta_imagen {
+  width: 65%;
+  height: auto; }
+
+#tarta_texto {
+  width: 30%;
+  height: auto;
+  margin: 10px 10px 30px 10px;
+  padding: 5px 5px 10px 10px;
+  float: right; }
+
+#sandwich_imagen {
+  width: 65%;
+  height: auto; }
+
+#sandwich_texto {
+  width: 30%;
+  height: auto;
+  margin: 10px 10px 30px 10px;
+  padding: 5px 5px 10px 10px;
+  float: right; }
+
+#pregfrecuentes {
+  width: 80%;
+  margin-left: 10%;
+  height: auto;
+  overflow: hidden; }
+
+#contacto {
+  width: 80%;
+  margin-left: 10%;
+  height: auto;
+  overflow: hidden;
+  text-align: center; }
+
+.contacto {
+  font-size: 12px;
+  font-family: 'Quicksand', sans-serif;
+  border-style: double; }
+
+.nombre_apellido {
+  color: #000000;
+  font-size: 12px;
+  font-family: 'Quicksand', sans-serif; }
+
+.enviar {
+  color: red;
+  font-size: 12px;
+  font-family: 'Quicksand', sans-serif; }
+
+#input {
+  border-style: double;
+  background: linear-gradient(0.1deg, pink, #E8EDEC); }
+
+#input:hover {
+  border-radius: 50px;
+  color: #A6728A !important;
+  transition: all 1s; }
+
+.pie {
+  color: grey;
+  text-align: center; }
